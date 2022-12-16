@@ -12,7 +12,7 @@
 
 • CSS
 
-• C/C++/C#
+• C/C#
 
 • JavaScript
 
