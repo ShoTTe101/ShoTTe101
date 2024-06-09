@@ -1,20 +1,14 @@
-👋 Hi, I’m @Joseph-Danyel
+👋 Hi, I’m José Daniel de Oliveira Patrício
 
-♾️ I'm sixteen (16) years old
+♾️ I'm seventeen (17) years old
 
 🍃 I'm brazilian
 
-👀 I’m interested in become a Full-Stack developer and learn more every day!
+👀 I’m interested in become a Backend developer and learn more every day!
 
 🌱 I’m currently learning:
 
-• HTML
-
-• CSS
-
-• C/C#
-
-• JavaScript
+• Java Language
 
 💞️ I’m looking to collaborate on anyone who wants to have my support
 
