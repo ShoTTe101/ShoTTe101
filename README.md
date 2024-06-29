@@ -1,10 +1,10 @@
-👋 Hi, I’m José Daniel de Oliveira Patrício
+👋 Hi, I’m José Daniel
 
 ♾️ I'm seventeen (17) years old
 
 🍃 I'm brazilian
 
-👀 I’m interested in become a Backend developer and learn more every day!
+👀 I’m interested in become a Backend developer!
 
 🌱 I’m currently learning:
 
